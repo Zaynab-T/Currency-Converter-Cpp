@@ -2,7 +2,7 @@
 A console based C++ application that converts U.S. dollars into multiple international currencies based on user input
 
 ## Overview
-This project was originally developed as part of a group assignment. I was primarily responsible for implementing the core program logic and currency conversion functionality in C++
+This project was originally developed as part of a group assignment. I was primarily responsible for implementing the core program logic and currency conversion functionality in C++.
 
 ## Features
 
