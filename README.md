@@ -6,8 +6,8 @@ This project was originally developed as part of a group assignment. I was prima
 
 ## Features
 
--Converts USD into 10 different currencies
--Allows user to input a dollar amount
--Provides a menu to select the desired currency
--Validates user input for dollar amount and menu options
--Uses appropriate functions for each currency conversion
+- Converts USD into 10 different currencies
+- Allows user to input a dollar amount
+- Provides a menu to select the desired currency
+- Validates user input for dollar amount and menu options
+- Uses appropriate functions for each currency conversion
